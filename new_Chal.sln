@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "new_Chal", "new_Chal\new_Chal.csproj", "{EC3AAB5F-C6D0-4F2E-9614-43A6A5A0838B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3AAB5F-C6D0-4F2E-9614-43A6A5A0838B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3AAB5F-C6D0-4F2E-9614-43A6A5A0838B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3AAB5F-C6D0-4F2E-9614-43A6A5A0838B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3AAB5F-C6D0-4F2E-9614-43A6A5A0838B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED34C237-77E0-4E70-A569-0C8103CA1B40}
+	EndGlobalSection
+EndGlobal
